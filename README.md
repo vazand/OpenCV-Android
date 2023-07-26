@@ -1,9 +1,5 @@
 # OpenCV-Android
-Using opencv in android project I'm using Android studio Flamingo version
-
-
-Android Studio Flamingo | 2022.2.1 Patch 1 
-OpenCv 4.8.0 android sdk
+Using opencv in android project I'm using Android studio Flamingo version and OpenCV-android-sdk-4.8.0
 
 1. download opencv-android-sdk latest version from https://opencv.org/releases/ and extract the zip
 2. copy the `OpenCV-android-sdk/sdk` directory and paste it in your project's root folder 
