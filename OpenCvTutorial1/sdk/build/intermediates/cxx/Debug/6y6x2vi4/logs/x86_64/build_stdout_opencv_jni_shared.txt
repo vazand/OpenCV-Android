@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/.cxx/Debug/6y6x2vi4/x86_64'
+ninja: no work to do.

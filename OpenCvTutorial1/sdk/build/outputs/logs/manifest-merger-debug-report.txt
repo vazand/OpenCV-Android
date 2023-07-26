@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml:2:1-3:12
+INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml:2:1-3:12
+INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml:2:1-3:12
+	package
+		INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+		ADDED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml:2:1-3:12
+		INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+		ADDED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+		INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+		ADDED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+		INJECTED from /home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml

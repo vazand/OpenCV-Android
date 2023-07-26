@@ -1,0 +1,13 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="org.opencv" >
+5
+6    <uses-sdk android:minSdkVersion="21" />
+6-->/home/vasanth/AndroidStudioProjects/OpenCvTutorial1/sdk/java/AndroidManifest.xml
+7
+8</manifest><!--
+9<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+10      package="org.opencv" >
+11</manifest>
+12-->
